@@ -7,6 +7,8 @@
 
 - done [Tutorial](https://github.com/johnlui/Learn-Laravel-5)
 
+- mix [ph_proxy](https://github.com/NominationP/ph_proxy)
+
 ##develop plan
 
 - change edit text to sup markdown

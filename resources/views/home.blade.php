@@ -1,3 +1,7 @@
+@extends('layouts.app_user')
+
+@section('content_user')
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,4 +39,7 @@
     </div>
 
 </body>
+
+
 </html>
+@endsection
